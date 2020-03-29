@@ -44,7 +44,10 @@
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
-    </style>
+    <style>
+      .img-container {
+        text-align: center;}
+    </style>>
   </head>
   <body>
     <!-- Reference item-->
@@ -71,20 +74,36 @@
         <p data-animate="slideInUp" class="h3 text-shadow text-400">This model does blah blah blah........................</p>
       </div>
     </section>
-    <section id="Overview" class="about-section">
+    <section id="Overview" class="bg-gradient services-section">
       <div class="container">
         <header class="text-center">
           <h2 data-animate="fadeInDown" class="title">Overview</h2>
         </header>
-        <div>
-          <img src="img/basemap.png" alt="Coronavirus spread" style="width:1500px;height:1000px;" class="center">
+        <div class="img-container">
+          <img src="img/basemap.png" alt="Coronavirus spread" style="width:800px;height:600px;">
         </div>
-        <div class="row"></div>
+        <div class="img-container">
+          <p>Visualization made using MatPlotLib's Basemap tool</p>
+          <p> </p>
+          <p> </p>
+        </div>
           <div data-animate="fadeInUp">
             <p>On March 11th, 2020, the World Heath Ogranization declared the CoronaVirus a pandemic. An estimated 114,000 peple contracted the virus in 114 various countries by then. As of March 29, 2020, Over 720,000 cases have been reported in 177 countries. The virus will not stop spreading anytime soon and current actions, especially in the United States, have been futile. </p>
             <p>Coronavirus, more specifically COVID-19, is a respitory disease caused by a novel coronavirus. This specific coronavirus does not cause death to the majority of people with an estimated death rate between one to three percent. However, the Kaiser Family Foundation released a statistic stating that about 100 million of american adults are at risk for serious illness. Because of the virus's ability to spread through miniscule droplets, the threat is definately a reality.  </p>
-            <p>Based on current efforts, it seems that the virus is going to exponentially spread for at least the next few weeks. For this reason, we wanted to focus on predicting the sriousness of the situation and attempt to predict the amount of cases that can potentially arise. These efforts can benefit the government and Hospitals by approximating how many resources they will need.</p>
+            <p>Based on current efforts, it seems that the virus is going to exponentially spread for at least the next few weeks. This can partially be illustrated by the pie chart below. What was once predominantly in China, is now most prominant in the United States. For this reason, we wanted to focus on predicting the sriousness of the situation and attempt to predict the amount of cases that can potentially arise. These efforts can benefit the government and Hospitals by approximating how many resources they will need.</p>
           </div></div>
+          <div class="container">
+          <div class="row">
+          <div class="col" class="img-container">
+            <img src="img/piechart.png" alt="Coronavirus country percentage" style="width:400px;height:400px;">
+            </div>
+            <div class="col" class="img-container">
+            <img src="img/overallgrowth.png" alt="Coronavirus country percentage" style="width:400px;height:400px;">
+            </div>
+            </div>
+            </div>
+          
+
 
     <!-- JavaScript files-->
     <script src="vendor/jquery/jquery.min.js"></script>
