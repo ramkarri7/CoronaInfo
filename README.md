@@ -1,8 +1,8 @@
-#COVID-19 Forecasting Web Dashboard
+# COVID-19 Forecasting Web Dashboard
 
-##Contributors: Ram Karri, Nikhil Sharma, and Ram Vegiraju
+## Contributors: Ram Karri, Nikhil Sharma, and Ram Vegiraju
 
-##Categories: Data Science
+## Categories: Data Science
 
 
 
