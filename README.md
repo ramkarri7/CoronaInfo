@@ -1,11 +1,10 @@
-# CoronaInfo
-HooHacks2020 Datascience path
+#COVID-19 Forecasting Web Dashboard
 
-Categories: Data Science, Beginner
+##Contributors: Ram Karri, Nikhil Sharma, and Ram Vegiraju
 
-Contributors: Ram Karri, Nikhil Sharma, and Ram Vegiraju
+##Categories: Data Science
 
-PROJECT: CORONAVIRUS FORECASTING DASHBOARD
+
 
 FRONT END:
 
