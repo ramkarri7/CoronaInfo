@@ -7,7 +7,8 @@ Contributors: Ram Karri, Nikhil Sharma, and Ram Vegiraju
 
 PROJECT: CORONAVIRUS FORECASTING DASHBOARD
 
-FRONT END
+FRONT END:
+
 Our website was created using bootstrap and firebase along with basic HTML, CSS, and Javascript, all front end materials
 are depicted.
 
