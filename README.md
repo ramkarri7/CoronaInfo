@@ -10,7 +10,7 @@
 ## FRONT END:
 
 Our website was created using bootstrap and firebase along with basic HTML, CSS, and Javascript, all front end materials
-are depicted.
+are depicted. The website can be seen at https://coronainfo-89606.firebaseapp.com/ .
 
 ## ML:
 
