@@ -25,6 +25,7 @@ DATA:
 
 For both the data used on the front end and ML models it was mainly forked from the Johns Hopkins repository linked below.
 https://github.com/CSSEGISandData/COVID-19#2019-novel-coronavirus-covid-19-2019-ncov-data-repository-by-johns-hopkins-csse
+
 All other data sources along with the March 27th data we used from Hopkins is presented in the data folder (Note: Weather data not used).
 
 TECHNOLOGIES:
